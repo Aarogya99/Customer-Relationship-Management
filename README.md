@@ -10,5 +10,5 @@ A PHP MVC-based CRM system developed for BCA internship practice.
 
 This repository is updated daily with improvements, fixes, and documentation.
 
-
-
+---
+*This project is being enhanced with automated tools.*
