@@ -1,4 +1,4 @@
-# Professional CRM System
+# CRM System
 
 A PHP MVC-based CRM system developed for BCA internship practice. This project is designed to help manage customer relationships, tracking leads, deals, and tasks efficiently.
 
